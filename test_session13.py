@@ -6,10 +6,10 @@ import re
 import generator
 
 README_CONTENT_CHECK_FOR = [
-    'tickets()',
-    'formatting()',
-    'create_record()',
-    'max_violations()']
+    'tickets',
+    'formatting',
+    'create_record',
+    'max_violations']
 
 def test_session13_readme_exists():
     """
